@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '52573'
     url: http://www.gutenberg.org/2009/agents/52573
     wikipedia: https://en.wikipedia.org/wiki/Al_McWilliams
+covers:
+- cover_type: archival
+  image_path: 64624-h/images/cover.jpg
 creator:
   author:
     agent_name: Mullen, Stanley
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '35156'
     url: http://www.gutenberg.org/2009/agents/35156
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64624#Lady-Into-Hell-Cat
 gutenberg_issued: '2021-02-25'
 gutenberg_type: Text
 identifiers:
